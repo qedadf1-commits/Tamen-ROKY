@@ -1,0 +1,85 @@
+{
+    "componentChunkName": "component---src-pages-about-sar-ournetwork-js",
+    "path": "/ar/about-sar/ournetwork/",
+    "result": {
+        "data": {
+            "locales": {
+                "edges": [
+                    {
+                        "node": {
+                            "ns": "common",
+                            "data": "{\"Start chat\":\"ابدأ المحادثة\",\"Business Class\":\"درجة الأعمال\",\"Which train are you travelling on?\":\"على أي قطار ستسافر؟\",\"North Trains\":\"قطار الشمال\",\"East Trains\":\"قطار الشرق\",\"North Train\":\"قطار الشمال\",\"East Train\":\"قطار الشرق\",\"Terms & Conditions\":\"الأحكام و الشروط\",\"Frequently asked\":\"أسئلة\",\"questions\":\"مكررة\",\"From\":\"من\",\"Timetable Train\":\"جدول \",\"Schedule\":\"الرحلات\",\"Get Schedule\":\"بحث\",\"Timetable SubTitle\":\"خطط لرحلتك مسبقًا ووفِّر حتى 40٪\",\"Sunday\":\"الأحد\",\"Monday\":\"الاثنين\",\"Tuesday\":\"يوم الثلاثاء\",\"Wednesday\":\"الأربعاء\",\"Thursday\":\"الخميس\",\"Friday\":\"جمعة\",\"Saturday\":\"السبت\",\"Train\":\"قطار\",\"Adult\":\"بالغ\",\"Youth\":\"شاب\",\"Child\":\"طفل\",\"Infant\":\"رضيع\",\"Adults\":\"بالغين\",\"Children\":\"الأطفال\",\"Infants\":\"الرضع\",\"Passenger Type\":\"نوع الركاب\",\"Age\":\"العمر\",\"Book Now\":\"احجز الآن\",\"Check Nearest Station\":\"تحقق من أقرب محطة\",\"Call Now\":\"اتصل الان\",\"Passengers\":\"المسافرين\",\"Dammam\":\"الدمام\",\"Riyadh\":\"الرياض\",\"Riyadh East\":\"الرياض الشرق\",\"Riyadh North\":\"الرياض الشمال\",\"Closed\":\"مغلق\",\"Hufuf\":\"الهفوف\",\"Majmaa\":\"المجمعة\",\"Qassim\":\"القصيم\",\"Jauf\":\"الجوف\",\"Hail\":\"حائل\",\"Abqaiq\":\"بقيق\",\"DAMMAM\":\"الدمام\",\"RIYADH\":\"الرياض\",\"HUFUF\":\"الهفوف\",\"MAJMAA\":\"المجمعة\",\"QASSIM\":\"القصيم\",\"JAUF\":\"الجوف\",\"HAIL\":\"حائل\",\"ABQAIQ\":\"بقيق\",\"Qurayyat\":\"القريات\",\"QURAYYAT\":\"القريات\",\"SAR\":\"ر.س\",\"Please select departure and arrival destinations\":\"الرجاء تحديد وجهات المغادرة والوصول\",\"Learn More\":\"للمزيد\",\"2022 Saudi Arabia Railways, All rights reserved.\":\" الخطوط الحديدية السعودية 2022 ، جميع الحقوق محفوظة.\",\"Parcel Shipments\":\"شحن الطرود\",\"Eid Al Fitr Offer\":\"عرض عيد الفطر\",\"Eid Al Adha Offer\":\"عرض عيد الاضحى\",\"East Stations\":\"محطات الشرق\",\"North Stations\":\"محطات الشمال\",\"Economy Class\":\"الدرجة الاقتصادية\",\"Economy Saver\":\"الاقتصادية التوفيرية\",\"Economy\":\"الاقتصادية\",\"Business\":\"الأعمال\",\"Business Premium\":\"الأعمال المميزة\",\"Private Cabin\":\"مقصورات النوم الخاصة\",\"Private Cabin Premium\":\"المقصورة الخاصة المميزة\",\"Not included\":\"غير مشمول\",\"Private Sleeper Cabins\":\"مقصورات النوم الخاصة\",\"Onboard baggage\":\"أمتعة السفر\",\"Checked baggage\":\"أمتعة الشحن\",\"Seat selection\":\"اختيار المقعد\",\"Change booking\":\"تعديل الحجز\",\"Cancel booking\":\"إلغاء الحجز\",\"No Show\":\"عدم الحضور\",\"Lounge access\":\"صالة درجة الأعمال\",\"Onboard meal\":\"وجبة على متن القطار\",\"Cabin/bed selection\":\"اختيار المقصورة / السرير\",\"FREE\":\"مجاناً\",\"Class\":\"الدرجة\",\"1 x Cabin (10kg)\":\"1 x حقيبة يد (10 كجم)\",\"1 x Medium (25kg)\":\"1 x حقيبة متوسطة (25 كجم)\",\"1 x Medium (32kg)\":\"1 x حقيبة متوسطة (32 كجم)\",\"1 x Large (32kg)\":\"1 x حقيبة كبيرة (32 كجم)\",\"50% charge\":\"50% من سعر التذكرة\",\"20% charge\":\"20% من سعر التذكرة\",\"40% charge\":\"40% من سعر التذكرة\",\"75% charge\":\"75% من سعر التذكرة\",\"100% charge\":\"100% من سعر التذكرة\",\"15% charge\":\"15% من سعر التذكرة\",\"30% charge\":\"30% من سعر التذكرة\",\"Online / app\":\"الموقع الإلكتروني/الطبيق\",\"Station\":\"المحطة\",\"Station2\":\"محطة\",\"KG\":\"كجم\",\"SR\":\"ر.س\",\"Dashboard\":\"لوحة التحكم\",\"Sign out\":\"خروج\",\"ManageBooking\":\"إدارة الحجز\",\"AddBaggage\":\"إضافة امتعة\",\"AddLounge\":\"إضافة صالة\",\"AddMeals\":\"إضافة وجبات\",\"AddSeats\":\"إضافة مقاعد\",\"BookingNumber\":\"رقم الحجز\",\"Identifier\":\"رقم الجوال\",\"IdentifierDetails\":\"ادخل رقم الجوال المستخدم للحجز\",\"Attention\":\" الانتباه \",\"Next\":\"التالي\",\"Booking Number is required\":\"رقم الحجز مطلوب\",\"Booking Number should be atleast 10 digits\":\"يجب أن يكون رقم الحجز 10 أرقام على الأقل\",\"Booking Number should be Number\":\"يجب أن يكون رقم الحجز رقما\",\"Mobile Number is required\":\"رقم الجوال مطلوب\",\"Not a valid KSA mobile number\":\"رقم الجوال غير صالح في المملكة العربية السعودية\",\"*Next day\":\"*اليوم التالي\"}",
+                            "language": "ar"
+                        }
+                    },
+                    {
+                        "node": {
+                            "ns": "ournetwork",
+                            "data": "{\"Title\":\"شبكة الخطوط \",\"TitleAccent\":\"الحديدية\",\"SubTitle\":\"شبكاتنا متصلة في جميع أنحاء المملكة العربية السعودية\",\"North Train Network\":\"شبكة قطار الشمال\",\"The North Railway, known formerly as the North...\":\"تعتبر شبكة قطار الشمال، التي كانت تُعرف سابقاً باسم سكة الشمال والجنوب (NSR) والتي يبلغ طولها (2750 كم) و  إن كان لا تزال أجزاء منها قيد الإنشاء ، تصنف كأطول خطوط حديدية في العالم؛ تستخدم نظام إدارة الحركة الأوروبي ETCS –L2'' وهو نظام إشارات واتصال فريد لضمان التشغيل التوافقي لشبكات السكك الحديدية. كما يوفر موثوقية أعلى في الالتزام بالمواعيد، ويرفع من مستوى الأمن والسلامة للركاب والموظفين والبضائع.\",\"North Train Passenger Line\":\"قطار الشمال للركاب\",\"With a length of 1,250 Km .The passenger...\":\"بطول1,250  كم ، ينطلق خط الركاب من الرياض إلى الشمال الغربي باتجاه الحديثة قرب الحدود الأردنية، مروراً بكلٍ من المجمعة، القصيم ، حائل ، الجوف والقريات.\",\"North Train Freight Line\":\"قطار الشمال للشحن\",\"With a length of 1,550 Km, The freight line...\":\"يبلغ طول خط الشحن 1,550  كم، ويمتد من منجم الجلاميد علي الحدود الشمالية، مروراً بالجوف وحائل وصولاً إلى تقاطع البعيثة في محافظة القصيم، ليتجه من هناك  نحو منشآت التجهيز والتصدير في رأس الخير بالمنطقة الشرقية على ساحل الخليج العربي.\",\"North Train Fleet\":\"أسطول قطار الشمال\",\"The bi-directional Passenger trains...\":\"Tتتكون قطارات الركاب ثنائية الاتجاه من مقطورتان و8 عربات ركاب، حيث يضم الأسطول 4 قطارات نهارية و2 ليلية، وتبلغ السعة القصوى للقطار الواحد 442 مقعداً، بما في ذلك درجتّا الأعمال والاقتصادية، فضلاً عن مطعم بخدمات متكاملة. \",\"Night trains include hotel quality bedding...\":\"توفر القطارات الليلية أسرّة فندقية ومرافق ووسائل راحة عالية الجودة؛ تستوعب كحد أقصى 364 مِقعدًا وسريراً. وستتمكن القطارات الليلية لاحقاً من نقل ما يصل إلى 20 سيارة في 4 عربات مصممة خصيصاً لهذا الغرض حيث يتم التجهيز لإطلق هذه الخدمة بالتزامن مع تشغيل محطة القريات.\",\"SAR runs one of the world’s longest Freight trains, as it reaches a length...\":\"تقوم سار بتشغيل وإدارة  أحد أطول أساطيل الشحن في العالم، بطول يصل إلى 3 كم؛ وقدرة استيعابية تبلغ  16ألف طن. ويتكون الأسطول من 61 قاطرة و   523  عربة مخصصة لنقل معدن الفوسفات  و240  لنقل البوكسايت و 562  للكبريت المنصهر و589  لحامض الفوسفوريك (MGA).\",\"East Train Network\":\" شبكة قطار الشرق\",\"SAR East operates on a railway with network...\":\"يبلغ طول الإجمالي لشبكة قطار الشرق حوالي  1775كم ، وتمتد من ميناء الملك عبد العزيز في الدمام ، ومدينة الدمام نفسها؛ (على الساحل الشرقي للمملكة) إلى العاصمة الرياض، ويمر عبر بقيق، الهفوف، حرض، التوضيحية والخرج. \",\"East Train Passenger Line\":\"قطار الشرق للركاب\",\"The Passenger Line:...\":\"خط الركاب: خط مزدوج طوله الإجمالي733  كم ، ويربط العاصمة الرياض بالدمام من خلال الأحساء وبقيق.\",\"East Cargo Train\":\"قطار الشرق للشحن\",\"The Cargo is a 556-kilometer line...\":\"يبلغ طول خط الشحن  566 كم، يبدأ من ميناء الملك عبد العزيز في الدمام لينتهي في الرياض مروراً بالأحساء وبقيق والخرج و حرض والتوضيحية.\",\"East Train Fleet\":\"أسطول قطار الشرق\",\"The East Train fleet consists of...\":\"يتألف أسطول قطار الشرق من 102 قاطرة ديزل و75  عربة ركاب؛ وهي مصنفة إلى فئة درجة الأعمال بسعة 94 مقعدًا، وفئة الدرجة الاقتصادية بسعة 194 مقعدًا لكل قطار. كما يتوفر مطعم ومكان مخصص للصلاة على متن جميع قطاراتنا في الشبكة الشرقية.\",\"Cargo cars total 2596 of different sizes and types...\":\"يبلغ إجمالي مقطورات الشحن مختلفة الأحجام والأنواع 2596  مقطورة، منها  858 للتكديس المزدوج للحاويات، و 948 للحاويات العادّية،  و 201 لنقل الإسمنت و 135 لنقل الحبوب، و 47 مسطحة لنقل السيارات، و 46 مقطورة لنقل الصخور.\",\"The capacity of each double stacking cargo car is 80 tons...\":\"\",\"HARAMAIN HIGH SPEED RAIL (HHR)\":\"قطار الحرمين السريع\",\"Haramain High Speed Rail (HHR) is one of the world 10 fastest trains...\":\"يعتبر قطار الحرمين الشريفين أحد أسرع 10 قطارات كهربائية في العالم، إذ تبلغ سرعته 300 كم في الساعة مستخدماً أنظمة إشارات واتصالات متطورة. ويوفر المشروع المُكوّن من 30 قطاراً، يحوي كل واحد منها 13 عربة و 417 مقعداً،يربط مكة المكرمة بالمدينة المنورة؛ ويمر عبر ثلاث محطات: جدة، مطار الملك عبد العزيز الدولي، ومدينة الملك عبد الله الاقتصادية في رابغ\",\"The HHR project is a crucial component...\":\"يُعد قطار الحرمين السريع مكونًا أساسيًا في خطة التطوير وبرنامج التوسع في شبكة السكك الحديدية السعودية.يربط هذا المشروع بين المدينتين الرئيسيتين في المنطقة الغربية، ويلبي الطلب المُتنامي لخدمة الأعداد المتزايدة من الحجاج الداخليين والخارجيين، ويخفف من الازدحام على الطرق في مكة المُكرمة والمدينة المنورة وجدة. \"}",
+                            "language": "ar"
+                        }
+                    },
+                    {
+                        "node": {
+                            "ns": "navigation",
+                            "data": "{\"Career\":\"التوظيف\",\"Vendors\":\"الموردين\",\"Vendor Portal\":\"بوابة الموردين\",\"Vendor Register\":\"تسجيل الموردين\",\"Tenders\":\"المنافسات\",\"Ehsan Platform\":\"منصة احسان \",\"Speak-up\":\"برنامج الإبلاغ عن المخالفات\",\"About SAR\":\"عن سار\",\"Travel with SAR\":\"سافر مع سار\",\"Freight\":\"الشحن\",\"Freight Trains\":\"قطارات الشحن\",\"Disclaimer\":\"إخلاء المسؤولية\",\"Media Center\":\"المركز الإعلامي\",\"Sign in\":\"تسجيل الدخول\",\"Create account\":\"إنشاء حساب جديد\",\"Baggage Guide\":\"دليل الأمتعة\",\"COVID Travel Instructions\":\"تعليمات السفر  بـ COVID\",\"Special Assistance\":\"مساعدة خاصة\",\"Ticket Conditions\":\"شروط التذاكر\",\"Our Story\":\"قصتنا\",\"Towards a Bright Future\":\"نحو مستقبل سار\",\"Find out more\":\"للمزيد\",\"Green is for Greatness!\":\"سار معاك يا الأخضر\",\"Extra trains added to and from Hofuf for our National Team match days.\":\"أضفنا قطارات إضافية من وإلى الهفوف في أيام مباريات المنتخب الوطني \",\"Now available from all North & East Stations\":\"متاح الآن من جميع محطات الشمال و الشرق\",\"Travel by train with your car\":\"سافر مع سيارتك على متن القطار\",\"Available Anytime\":\"لايوقف الاستفسار\",\"Receive rapid responses to all your queries around the clock via Whatsapp Chatbot\":\"بكل دقة وسرعة جاهزين لاستفساراتكم على مدار الساعة عبر رقم التواصل التفاعلي - واتساب\",\"Our Stations\":\"المحطات\",\"Get in touch\":\"تواصل معنا\",\"Photopgraphy Competition\":\"للتصوير الفوتوغرافي\",\"Win Business Class tickets this Founding Day\":\"اربح تذاكر درجة الأعمال بمناسبة<br />   يوم التأسيس\",\"Buy One, Get One Free On Parcel Shipments\":\"ارسل شحنة والثانية مجاناً\",\"Eid Sale\":\"عرض عيد الفطر المبارك\",\"15% Off Economy Class\":\"خصم 15% على الدرجة الاقتصادية\",\"In the lead up to Ramadan\":\"بمناسبة اقتراب شهر رمضان المبارك \",\"Ramadan Trips\":\"رحلات رمضان\",\"Now Available\":\"متوفرة الآن \",\"Uber x SAR\":\"  أوبر x سار  \",\"Your journey made easier\":\"مشاويرك أصبحت أكثر سهولة\",\"Save 20%\":\"خصم 20%\",\"On Business Class\":\"على درجة الأعمال\",\"Eid Al- Adha Offer\":\"عرض عيد الأضحى المبارك\",\"20% off Business Class\":\"خصم 20% على درجة الأعمال\",\"Business Class Tickets 93 SR or Less\":\"تذاكر درجة الأعمال بـ93 ريال أو أقل\",\"For Saudi National Day\":\"بمناسبة اليوم الوطني\",\"Qassim Date Festival\":\"مهرجان القصيم للتمور\",\"50% off Parcel Shipments\":\"خصم 50% على سعر شحن الطرود\",\"Travel Information\":\"معلومات السفر\",\"Train Schedule\":\"جدول الرحلات\",\"Purchase Methods\":\"شراء التذاكر\",\"Travel Classes\":\"درجات السفر\",\"Refunds & Modification\":\"الإلغاء والتعديل\",\"External Links\":\"روابط هامة\",\"MOT\":\"وزارة النقل والخدمات اللوجستية\",\"TGA\":\"الهيئة العامة للنقل\",\"HHR\":\"قطار الحرمين السريع\",\"PIF\":\"صندوق الاستثمارات العامة\",\"EHSAN\":\"منصة احسان \",\"COVID Restrictions\":\"قيود COVID\",\"Ticket Rates\":\"فئات التذاكر\",\"Before You Travel\":\"قبل سفرك\",\"Terms and Conditions\":\"الأحكام والشروط\",\"Privacy Policy\":\"سياسة الخصوصية\",\"Our Mission & Vision\":\"مهمتنا ورؤيتنا\",\"Our Rail Network\":\"شبكة الخطوط الحديدية\",\"Security\":\"الإجراءات الأمنية\",\"Refund Modification\":\"الالغاء والتعديل\",\"Help\":\"للمساعدة\",\"Tickets\":\"التذاكر\",\"Passenger Charter\":\"ميثاق المسافر\",\"Refund & Compensation\":\"نموذج الاسترداد والتعويض\",\"Complaint Handling Policy\":\"سياسة التعامل مع الشكاوى\",\"Customer Feedback Form\":\"نموذج آراء العملاء\",\"Disabilities Protection Policy\":\"سياسة حماية الركاب ذوي الإعاقة\",\"Parcel Shipments\":\"شحن الطرود\",\"Car Cargo\":\"شحن السيارات\",\"WalaOne Loyalty Program\":\"برنامج نقاط ولاء ون\",\"National Day Offer\":\"عروض اليوم الوطني\",\"Road to Qatar\":\"طريقك إلى قطر\",\"Car Parking\":\"مواقف السيارات\",\"Onboard Food & Drink\":\"المأكولات والمشروبات على متن القطار\",\"Station Lounges\":\"صالات المحطات\",\"Seat Selection\":\"اختيار المقعد\",\"Our Baggage Sizes are Changing\":\"حمّل أمتعتك بختلف أحجامها\",\"Discover our new baggage policy\":\"تعرّف على دليل الأمتعة الجديد\",\"Want to Carry More?\":\"ترغب بحمل المزيد من الأمتعة؟\",\"You can now add extra luggage to your booking\":\"يمكنك الآن إضافة الأمتعة إلى حجزك\",\"Your Journey Starts Here\":\"رحلتك مع سار تبدأ من هنا\",\"You can now add Lounge Access to your booking\":\"يمكنك الآن إضافة خاصية الدخول إلى صالة الأعمال على حجزك\",\"Tickets Tailored Just for you\":\"تذاكر مفصلة عليك\",\"Ship One Parcel & Send a Second Parcel Free\":\"اشحن طرد واحد و ارسل الثاني مجاناً\",\"Ship your car for 695 SR\":\"اشحن سيارتك بـ 695 ر.س\",\"20% off Business Premium\":\"خصم %20 على الأعمال المميزة\",\"Ramadan Schedule\":\"جدول رحلات رمضان\",\"Ramadan Sale\":\"عرض رمضان\",\"Ramadan Mubarak\":\"رمضان مبارك \",\"Celebrate Ramadan with SAR\":\"عروض سار بمناسبة شهر رمضان المبارك\",\"25% off train tickets\":\"خصم %25\",\"this Eid\":\"بمناسبة عيد الفطر المبارك\",\"25% off train tickets this Eid\":\"خصم%25 بمناسبة عيد الفطر المبارك\",\"Pre-book your car rental\":\"استأجر سيارتك مسبقاً\",\"from SAR stations with Telgani\":\"من محطات سار مع تلقاني\",\"Future Projects Forum Attendees’ Exclusive Offer\":\"عرض خاص لحضور منتدى المشاريع المستقبلية\",\"30% off train tickets\":\"خصم %30 على تذاكر القطار\",\"Become a Partner\":\"كن شريكا لسار\",\"Delicious Food\":\"أطباق لذيذة\",\"Just for you\":\"محضرة خصيصاً لك!!\",\"Happy travels with SAR this Eid!\":\"رحلة مليئة بالفرح هذا العيد!\",\"Promo code: SARAdha\":\"استخدم الكود \"}",
+                            "language": "ar"
+                        }
+                    }
+                ]
+            },
+            "image": {
+                "childrenImageSharp": [
+                    {
+                        "gatsbyImageData": {
+                            "layout": "constrained",
+                            "backgroundColor": "#c8c8c8",
+                            "images": {
+                                "fallback": {
+                                    "src": "/static/bc1809229a6890eb3f4e8572f0b8d805/bfbf2/OurNetwork.jpg",
+                                    "srcSet": "/static/bc1809229a6890eb3f4e8572f0b8d805/38510/OurNetwork.jpg 350w,\n/static/bc1809229a6890eb3f4e8572f0b8d805/dc1f5/OurNetwork.jpg 700w,\n/static/bc1809229a6890eb3f4e8572f0b8d805/bfbf2/OurNetwork.jpg 1400w",
+                                    "sizes": "(min-width: 1400px) 1400px, 100vw"
+                                },
+                                "sources": [
+                                    {
+                                        "srcSet": "/static/bc1809229a6890eb3f4e8572f0b8d805/ce90f/OurNetwork.webp 350w,\n/static/bc1809229a6890eb3f4e8572f0b8d805/699de/OurNetwork.webp 700w,\n/static/bc1809229a6890eb3f4e8572f0b8d805/8ea33/OurNetwork.webp 1400w",
+                                        "type": "image/webp",
+                                        "sizes": "(min-width: 1400px) 1400px, 100vw"
+                                    }
+                                ]
+                            },
+                            "width": 1400,
+                            "height": 350
+                        }
+                    }
+                ],
+                "name": "OurNetwork",
+                "relativePath": "headers/OurNetwork.jpg"
+            }
+        },
+        "pageContext": {
+            "language": "ar",
+            "i18n": {
+                "language": "ar",
+                "languages": [
+                    "ar",
+                    "en"
+                ],
+                "defaultLanguage": "en",
+                "generateDefaultLanguagePage": false,
+                "routed": true,
+                "originalPath": "/about-sar/ournetwork/",
+                "path": "ar/about-sar/ournetwork/"
+            }
+        }
+    },
+    "staticQueryHashes": [
+        "1425883123",
+        "2509489588",
+        "2652194065",
+        "3602187679",
+        "4238523585",
+        "830875992"
+    ],
+    "slicesMap": {}
+}
