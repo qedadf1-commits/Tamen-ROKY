@@ -1,0 +1,464 @@
+[25-Dec-2023 21:38:27 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php on line 41
+[25-Dec-2023 21:38:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/index.php(38): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php on line 41
+[25-Dec-2023 21:38:30 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php on line 41
+[25-Dec-2023 21:38:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/index.php(38): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php on line 41
+[25-Dec-2023 21:38:33 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php on line 41
+[25-Dec-2023 21:38:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/index.php(38): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/laravel/vendor/composer/autoload_real.php on line 41
+[28-Dec-2023 14:47:54 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[28-Dec-2023 14:47:54 UTC] PHP Fatal error:  Failed opening required '/home/xjqh260jth4t/public_html/tameeni.store/sucuri-filemanager.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in Unknown on line 0
+[30-Dec-2023 23:21:31 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:34 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:36 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:37 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:40 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:43 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:43 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:45 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:46 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:49 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:50 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:52 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:56 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:59 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:21:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:02 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:05 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:08 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:11 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:13 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:14 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:17 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:20 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:23 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:26 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:27 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:29 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:32 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:32 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:36 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:38 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 38
+[30-Dec-2023 23:22:41 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:22:44 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:22:47 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:22:48 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:22:50 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:22:50 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:22:53 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:22:54 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:22:56 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:22:59 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:02 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:05 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:08 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:10 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:12 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:13 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:15 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:17 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:21 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:24 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:25 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:26 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:26 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:26 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:26 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:26 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:26 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:26 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:26 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:27 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:28 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:30 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:34 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:42 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:23:51 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:24:18 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:24:29 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 7
+[30-Dec-2023 23:24:52 UTC] PHP Warning:  Undefined variable $x in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 5
+[30-Dec-2023 23:27:01 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:27:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:27:44 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:27:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:27:50 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:27:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:02 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:06 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:22 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:26 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:37 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:43 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:28:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:29:26 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:29:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:29:36 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:29:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:29:57 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:29:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:30:21 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:30:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:30:36 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:30:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:31:35 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:31:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:31:45 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:31:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:31:54 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:31:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:31:58 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:31:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:32:08 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[30-Dec-2023 23:32:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.life/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.life/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.life/index.php on line 36
+[01-Jan-2024 22:28:15 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:15 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:15 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:18 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:21 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:21 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:24 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:27 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:28 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:30 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:33 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:35 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:36 UTC] PHP Warning:  require(/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php): Failed to open stream: No such file or directory in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
+[01-Jan-2024 22:28:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/autoload.php(25): ComposerAutoloaderInit31797b99867e75edf660b30ee6fc3a89::getLoader()
+#2 /home/xjqh260jth4t/public_html/tameeni.xyz/index.php(36): require('/home/xjqh260jt...')
+#3 {main}
+  thrown in /home/xjqh260jth4t/public_html/tameeni.xyz/laravel/vendor/composer/autoload_real.php on line 41
