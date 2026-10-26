@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header-parent {
+    border-bottom: 2px solid #11998d ; 
+    width: 100%;
+    text-align: right;
+
+}
+.logo {
+    width: 100px;
+    text-align: right;
+}
+
+.header-title{
+    width: 100%;
+    background-color: #f5f6fa;
+    margin: 10px 0px;
+}
+.header-title img{
+    width: 50%;
+    height: 100%;
+}
+.card-header-aplication{
+    background-color: #c2c2c2 !important;
+}
+.card-header{
+    background-color: #11998d;
+    color: white;
+}
+a{
+    border: none;
+}
+a:focus{
+    border: none !important;
+    outline: none !important;
+}
+
+.btn-link{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-link div{
+    flex:1;
+    outline: none;
+}
+#collapseLogin{
+    margin: 15px auto;
+    padding: 40px 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 50%;
+ 
+}
+@media (max-width: 768px) {
+    #collapseLogin {
+        width: 100%;
+    }
+}
+.btn-submit{
+    color: white;
+    background-color: #11998d;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+}
+.footer-img{
+    min-width: 100%;
+    margin-top: 30px;
+
+}
+.footer-img img{
+    width: 100%;
+}
+.accordion{
+    border: none !important;
+    outline: none !important;
+}
+
+.card-body{
+   
+}
+
